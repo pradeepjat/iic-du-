@@ -1,0 +1,25 @@
+                         : : : : : Course Prefrence : : : : : 
+
+->In these Code I use a Xampp for server side coding
+These Folder contain 4 file 
+ 1) conn.php => For connection with data base ,my username is "root" and password="" 
+                change is according to your username and password.
+ 2) index.php => First page, for select your course prefrences.
+ 3) insert.php => Contain all sql operation require to perform a task and making and saving prefrenence list.
+ 4) user.sql => database require to perform task.
+                    =====>dbname = question2 =====>
+
+   database contain 4 table
+   1) colleges
+         college_id,college_name
+   2) course
+        course_id,course_name
+   3) user
+        user_id,username,prefrence
+   4) course_offer
+        college_id,course_id
+
+Language => PHP,HTML,JAVASCRIPT
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++  I have added few data in course_offer table due to lack of time for beter experience add more data into database manually  +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
