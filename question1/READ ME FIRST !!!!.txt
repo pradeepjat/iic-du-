@@ -1,0 +1,22 @@
+                         : : : : : Group Student list  : : : : : 
+
+->In these Code I use a Xampp for server side coding
+These Folder contain 4 file 
+ 1) conn.php => For connection with data base ,my username is "root" and password="" 
+                change is according to your username and password.
+ 2) index.php => First page, for select group on the basis of age,gender,course.
+ 3) second.php => Display the list
+ 4) user.sql => database require to perform task.
+                    =====>dbname = question1 =====>
+
+   database contain 4 table
+   1) Student
+         stu_id,student_name,course,gender,age
+
+Language => PHP,HTML,JAVASCRIPT
+
+------>
+Assumption--------- --------------------------------------------------------------------------------------------------->
+I am assuming that we have student table and we have to gruop according to table because of uncleared question statement
+i am assuming that.  i have  mailed regarding these but i don't get any reply.
+-------------------------------------------------------------------------------------------------------------------------> 
